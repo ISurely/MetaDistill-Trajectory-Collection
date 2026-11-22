@@ -1,0 +1,3 @@
+# MetaDistill 论文复现轨迹收集
+本项目尝试复现MetaDistill 论文中的Trajectory-Collection 部分
+目标函数采用球函数，轨迹搜索是基于简化版的PSO算法来进行的，利用代码将搜索的轨迹点保存在tragectory-collection.json文件中
